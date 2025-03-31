@@ -13,7 +13,7 @@
 
 <div>
   <a href="#">
-    <img height="220" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=toncogo&layout=compact&langs_count=8&card_width=120&theme=dracula" />
+    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=toncogo&layout=compact&langs_count=8&card_width=120&theme=dracula" />
   </a>
 </div><br>
 
