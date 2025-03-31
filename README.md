@@ -1,7 +1,7 @@
 ## Hello, I'm Alyton Cogo!
 
 
-<div style="display: inline_block"><br>
+<div><br>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=toncogo&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)" />
@@ -11,7 +11,7 @@
   </picture>
 </div><br>
 
-<div style="display: inline_block"><br>
+<div>
   <a href="#">
     <img height="220" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=toncogo&layout=compact&langs_count=8&card_width=120&theme=dracula" />
   </a>
