@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alyton Cogo
+# 👨‍💻 Alyton Cogo
 
 **`FullStack Developer`**
 
@@ -154,7 +154,7 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
