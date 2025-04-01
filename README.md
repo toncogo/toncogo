@@ -137,7 +137,7 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
 <br>
 <br>
 <hr>
-<p align="left" style="margin-top: 15px; margin-bottom: 5px"> 
+<p align="left" style="padding: 10px 0px;"> 
   <a href="https://instagram.com/alyton.cogo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/cogo0817" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cogotechnologies@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -152,17 +152,16 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"  
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    
-<img
+
+<img 
       align="left" 
-      alt="GitHub Skills" 
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toncogo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 
 </p>
