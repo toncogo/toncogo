@@ -148,23 +148,21 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
 
 ### 📊 Stats
 
-<div style="display: flex">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    width="466"
-    style="padding-right: 20px;" 
+    height="200"  
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
+    
 <img
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="300"
-      max-width="100%"
+      alt="GitHub Skills" 
+      height="200"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toncogo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
-</div>
+</p>
