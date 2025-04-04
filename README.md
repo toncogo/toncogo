@@ -154,7 +154,7 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
 
 <hr>
 
-### 📊 Statss
+### 📊 Stats
 
 <p>
   <img 
