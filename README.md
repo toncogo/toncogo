@@ -161,13 +161,15 @@ My name is Alyton Cogo, I am a technology lover and a curious individual who lik
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="460"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=toncogo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats"
+      width="348"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=toncogo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=5" 
   />
